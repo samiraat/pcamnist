@@ -1,0 +1,2 @@
+# pcamnist
+pca on mnist
